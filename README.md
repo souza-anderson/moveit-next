@@ -4,7 +4,7 @@
 
 Este projeto foi construído a partir quarta edião da NLW da [Rocketseat](https://rocketseat.com.br/). O objetivo deste app é incentivar a prática de exercícios físicos na frente do computador. Cada novo desafio cumprido experiências e níveis são acumulados.
 
-![Preview]()
+![Preview](https://github.com/souza-anderson/moveit-next/blob/main/image.gif)
 
 ## Início
 
